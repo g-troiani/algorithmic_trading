@@ -1,0 +1,8 @@
+yfinance
+pandas
+requests
+prophet
+matplotlib
+seaborn
+scikit-learn
+SQLAlchemy
